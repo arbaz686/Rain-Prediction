@@ -55,4 +55,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 Special thanks to the open-source community and contributors.
 
-Happy coding!
+# Happy Coding! 🚀
+
